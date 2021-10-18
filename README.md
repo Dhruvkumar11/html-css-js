@@ -1,4 +1,5 @@
-# html-css-js
+Module 2 assignment Dhruv
+
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
 Woo-hoo! You get to do some coding! Exciting!
